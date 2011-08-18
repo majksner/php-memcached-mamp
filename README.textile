@@ -4,6 +4,6 @@ h1. Installation:
 # Add extension="memcached.so" to the end of php.ini (Open MAMP click on File → Edit Template → PHP → PHP 5.3.6 php.ini)
 # Restart MAMP.
 
-h2. Dependencies
-	memcached (brew install memcached)
-	libmemcached (brew install libmemcached)
+h2. Dependencies:
+# memcached (brew install memcached)
+# libmemcached (brew install libmemcached)
