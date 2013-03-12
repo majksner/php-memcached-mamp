@@ -9,7 +9,8 @@ h2. Dependencies:
 # libmemcached (brew install libmemcached)
 
 h3. Change Log:
-* 0.4 (09/07/2012) PHP-PECL-MEMCACHED updated for PHP 5.4.4, it works with latest MAMP 2.1.1
-* 0.3 (08/08/2012) PHP-PECL-MEMCACHED updated to the latest version (2.1.0), it works with the latest MAMP 2.1.x and PHP 5.3.14.
-* 0.2 (05/14/2012) PHP-PECL-MEMCACHED updated to the latest version (2.0.1), it works with the latest MAMP 2.0.5
+* 0.5 (03/12/2013) PHP-PECL-MEMCACHED updated for PHP 5.4.10, it works with latest MAMP 2.1.2
+* 0.4 (09/07/2012) PHP-PECL-MEMCACHED updated for PHP 5.4.4, it works with MAMP 2.1.1
+* 0.3 (08/08/2012) PHP-PECL-MEMCACHED updated to the version (2.1.0), it works with the MAMP 2.1.x and PHP 5.3.14.
+* 0.2 (05/14/2012) PHP-PECL-MEMCACHED updated to the version (2.0.1), it works with the MAMP 2.0.5
 * 0.1 - Initial Release
