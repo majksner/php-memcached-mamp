@@ -1,7 +1,7 @@
 # Installation:
 
-1. Copy `memcached.so` from the appropriate subdirectory of this repo to `/Applications/MAMP/bin/php/php5.x.x/lib/php/extensions/no-debug-non-zts-200xxxxx` (Channge 5.x.x to your PHP version)
-2. Add `extension=memcached.so` to the end of `php.ini` (Open MAMP click on File → Edit Template → PHP → PHP 5.x.x php.ini), for non-pro users edit `/Applications/MAMP/bin/php/php5.x.x/conf/php.ini` (Channge 5.x.x to your PHP version)
+1. Copy `memcached.so` from the appropriate subdirectory of this repo to `/Applications/MAMP/bin/php/phpX.x.x/lib/php/extensions/no-debug-non-zts-200xxxxx` (Channge X.x.x to your PHP version)
+2. Add `extension=memcached.so` to the end of `php.ini` (Open MAMP click on File → Edit Template → PHP → PHP X.x.x php.ini), for non-pro users edit `/Applications/MAMP/bin/php/phpX.x.x/conf/php.ini` (Channge X.x.x to your PHP version)
 3. Restart MAMP.
 
 ## Dependencies:
@@ -9,6 +9,7 @@
 2. `$ brew install libmemcached`
 
 ### Change Log:
+* 0.14 (07/21/2016) PHP-PECL-MEMCACHED 2.2.0 update for PHP 7.0.8 and it works with latest MAMP 3.5.2
 * 0.14 (01/02/2015) PHP-PECL-MEMCACHED 2.2.0 update for PHP 7.0.0 and it works with latest MAMP 3.5
 * 0.12 (06/28/2015) PHP-PECL-MEMCACHED 2.2.0 update for PHP 5.6.10, PHP 5.5.26 and it works with latest MAMP 3.3
 * 0.11 (12/06/2014) PHP-PECL-MEMCACHED 2.2.0 updated for PHP 5.6.2 PHP 5.5.18, 5.4.34 and 5.3.29 it works with latest MAMP 3.0.7.3
