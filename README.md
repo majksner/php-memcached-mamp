@@ -1,3 +1,7 @@
+#DEPRECATED
+
+MAMP 4 ships with memcached extension. It's not enabled by default but it can be enabled by editing `php.ini` and uncommeting `memcached.so`
+
 # Installation:
 
 1. Copy `memcached.so` from the appropriate subdirectory of this repo to `/Applications/MAMP/bin/php/phpX.x.x/lib/php/extensions/no-debug-non-zts-200xxxxx` (Channge X.x.x to your PHP version)
