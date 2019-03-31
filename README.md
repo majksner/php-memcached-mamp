@@ -1,4 +1,4 @@
-#DEPRECATED
+# DEPRECATED
 
 MAMP 4 ships with memcached extension. It's not enabled by default but it can be enabled by editing `php.ini` and uncommeting `memcached.so`
 
